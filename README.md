@@ -32,7 +32,7 @@ Displays a confirmation message after successful booking.
 - **Frontend:** React.js, JavaScript  
 - **Styling:** Tailwind CSS  
 - **Routing:** React Router DOM  
-- **State Management:** React Context & Local State  
+- **State Management:** Local State  
 - **Form Validation:** Basic client-side validation with feedback
 
 ---
@@ -51,14 +51,10 @@ Displays a confirmation message after successful booking.
 ## 📦 Folder Structure (Simplified)
 
 src/
-├── assets/ # Images
-├── components/ # Reusable UI components
-├── context/ # Global state using React Context
-├── data/ # Mocked JSON data for doctors
-├── pages/ # Route-specific views
-├── App.jsx # Main app
-├── routes.jsx # Routes config
-
+├── components/    # Reusable UI components such as buttons, cards, form elements
+├── data/          # Mocked JSON data for doctors (sample data used in the app)
+├── pages/         # Route-specific views (e.g., Home, Doctor Details, Booking, Confirmation)
+├── App.jsx        # Main React component that sets up routing and app layout
 
 ---
 
@@ -83,7 +79,7 @@ src/
 
 1. Clone the repository  
 
-git clone https://github.com/farazsfa007/Healthcare-Appointment-Booking-App.git
+    git clone https://github.com/farazsfa007/Healthcare-Appointment-Booking-App.git
 
 2. Install dependencies  
 
@@ -93,7 +89,7 @@ git clone https://github.com/farazsfa007/Healthcare-Appointment-Booking-App.git
 
 ## 🧑‍💻 Author
 
-**Faraz Ahmad**  
+**Syed Faraz Ahmad**  
 Connect on [GitHub](https://github.com/farazsfa007)
 
 ---
