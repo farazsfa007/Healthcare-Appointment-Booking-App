@@ -1,3 +1,7 @@
+Here's a complete, professional `README.md` for your **Healthcare Appointment Booking App**, including your screenshots, live demo, and GitHub repo:
+
+---
+
 ```markdown
 # 🏥 Healthcare Appointment Booking App
 
@@ -54,10 +58,13 @@ Displays a confirmation message after successful booking.
 ```
 
 src/
+├── assets/              # Images
 ├── components/          # Reusable UI components
+├── context/             # Global state using React Context
 ├── data/                # Mocked JSON data for doctors
 ├── pages/               # Route-specific views
 ├── App.jsx              # Main app
+├── routes.jsx           # Routes config
 
 ````
 
@@ -102,7 +109,7 @@ src/
 
 ## 🧑‍💻 Author
 
-**Syed Faraz Ahmad**
+**Faraz Ahmad**
 Connect on [GitHub](https://github.com/farazsfa007)
 
 ---
