@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Khan",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Monday", "time": "10:00 AM - 1:00 PM" },
+      { "day": "Wednesday", "time": "2:00 PM - 5:00 PM" },
+      { "day": "Friday", "time": "9:00 AM - 12:00 PM" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ben Carter",
+    "specialization": "Dermatologist",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg",
+    "status": "Fully Booked",
+    "availability": [
+      { "day": "Tuesday", "time": "11:00 AM - 4:00 PM" },
+      { "day": "Thursday", "time": "1:00 PM - 6:00 PM" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Clara Evans",
+    "specialization": "Pediatrician",
+    "image": "https://randomuser.me/api/portraits/women/55.jpg",
+    "status": "Available Tomorrow",
+    "availability": [
+      { "day": "Tuesday", "time": "9:00 AM - 12:00 PM" },
+      { "day": "Thursday", "time": "3:00 PM - 6:00 PM" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Monday", "time": "2:00 PM - 6:00 PM" },
+      { "day": "Wednesday", "time": "10:00 AM - 2:00 PM" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emily Zhang",
+    "specialization": "Neurologist",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "status": "Fully Booked",
+    "availability": [
+      { "day": "Tuesday", "time": "1:00 PM - 5:00 PM" },
+      { "day": "Friday", "time": "11:00 AM - 3:00 PM" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Faisal Ahmed",
+    "specialization": "ENT Specialist",
+    "image": "https://randomuser.me/api/portraits/men/67.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Wednesday", "time": "9:00 AM - 12:00 PM" },
+      { "day": "Friday", "time": "2:00 PM - 5:00 PM" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grace Morgan",
+    "specialization": "Psychiatrist",
+    "image": "https://randomuser.me/api/portraits/women/61.jpg",
+    "status": "Available Tomorrow",
+    "availability": [
+      { "day": "Monday", "time": "1:00 PM - 4:00 PM" },
+      { "day": "Thursday", "time": "10:00 AM - 1:00 PM" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henry Walker",
+    "specialization": "General Physician",
+    "image": "https://randomuser.me/api/portraits/men/72.jpg",
+    "status": "Fully Booked",
+    "availability": [
+      { "day": "Tuesday", "time": "9:00 AM - 1:00 PM" },
+      { "day": "Friday", "time": "1:00 PM - 4:00 PM" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ishita Mehra",
+    "specialization": "Gynecologist",
+    "image": "https://randomuser.me/api/portraits/women/74.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Wednesday", "time": "11:00 AM - 2:00 PM" },
+      { "day": "Saturday", "time": "10:00 AM - 1:00 PM" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jack Thompson",
+    "specialization": "Urologist",
+    "image": "https://randomuser.me/api/portraits/men/59.jpg",
+    "status": "Available Tomorrow",
+    "availability": [
+      { "day": "Monday", "time": "3:00 PM - 6:00 PM" },
+      { "day": "Thursday", "time": "12:00 PM - 3:00 PM" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kavita Sharma",
+    "specialization": "Oncologist",
+    "image": "https://randomuser.me/api/portraits/women/49.jpg",
+    "status": "Fully Booked",
+    "availability": [
+      { "day": "Tuesday", "time": "10:00 AM - 1:00 PM" },
+      { "day": "Friday", "time": "3:00 PM - 6:00 PM" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Liam O'Connor",
+    "specialization": "Nephrologist",
+    "image": "https://randomuser.me/api/portraits/men/66.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Monday", "time": "11:00 AM - 2:00 PM" },
+      { "day": "Thursday", "time": "2:00 PM - 5:00 PM" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Meena Roy",
+    "specialization": "Endocrinologist",
+    "image": "https://randomuser.me/api/portraits/women/62.jpg",
+    "status": "Available Tomorrow",
+    "availability": [
+      { "day": "Wednesday", "time": "10:00 AM - 1:00 PM" },
+      { "day": "Saturday", "time": "12:00 PM - 3:00 PM" }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nathan Kim",
+    "specialization": "Pulmonologist",
+    "image": "https://randomuser.me/api/portraits/men/40.jpg",
+    "status": "Available Today",
+    "availability": [
+      { "day": "Tuesday", "time": "2:00 PM - 5:00 PM" },
+      { "day": "Friday", "time": "10:00 AM - 1:00 PM" }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Olivia Martins",
+    "specialization": "Rheumatologist",
+    "image": "https://randomuser.me/api/portraits/women/64.jpg",
+    "status": "Fully Booked",
+    "availability": [
+      { "day": "Monday", "time": "1:00 PM - 4:00 PM" },
+      { "day": "Thursday", "time": "11:00 AM - 2:00 PM" }
+    ]
+  }
+]
